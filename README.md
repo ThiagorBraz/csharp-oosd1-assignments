@@ -27,4 +27,4 @@ and encapsulation.
 ## Academic Context
 
 Developed at Atlantic Technological University (ATU), Sligo — 
-BSc (Hons) Computer Science, 1st Semester, OOSD 1 Module.
+Higher Diploma in Computer Science, 1st Semester, OOSD 1 Module.
