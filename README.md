@@ -9,7 +9,7 @@ module at Atlantic Technological University (ATU), Sligo, Ireland.
 Five exercises covering core C# and object-oriented programming 
 concepts including classes, methods, loops and conditionals.
 
-### Assessment 2
+### CA 2
 C# programming assignment focusing on object-oriented design 
 and implementation.
 
